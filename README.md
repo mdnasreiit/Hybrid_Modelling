@@ -1,1 +1,1 @@
-# This code is related to hybrid modelling (Physics Informed Neural Networks) and multiobjective optimization (Bayesian Optimization) of mammalian CHO cell culture for production of mAb inside bioreactor.
+# This code is related to hybrid modelling (Physics Informed Neural Networks - PINNs) and multiobjective optimization (Bayesian Optimization) of mammalian CHO cell culture for production of monoclonal antibody (mAb) inside bioreactor.
