@@ -1,1 +1,1 @@
-# Hybrid_Modelling
+# This code is related to hybrid modelling (Physics Informed Neural Networks) and multiobjective optimization (Bayesian Optimization) of mammalian CHO cell culture for production of mAb inside bioreactor.
